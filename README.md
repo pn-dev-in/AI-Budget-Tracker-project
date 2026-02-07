@@ -95,10 +95,14 @@ Charting layer converts raw financial data into meaningful insights
 
 Authentication layer ensures user-specific data isolation
 
-📷 Screenshots
-<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/dc6b9958-fbc4-48aa-8ec3-c452c8947f46" />
-<img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/1af058b4-0b27-4d78-8509-6b147f8a56ca" />
-<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/775338ba-6298-4790-9182-946c9d241531" />
+```md
+## 📷 Screenshots
+
+![Dashboard View](https://github.com/user-attachments/assets/dc6b9958-fbc4-48aa-8ec3-c452c8947f46)
+
+![Expense Analytics](https://github.com/user-attachments/assets/1af058b4-0b27-4d78-8509-6b147f8a56ca)
+
+![Transaction Management](https://github.com/user-attachments/assets/775338ba-6298-4790-9182-946c9d241531)
 
 🎯 Intended Role Fit
 Software Engineer (Backend / Full-Stack)
