@@ -95,7 +95,7 @@ Charting layer converts raw financial data into meaningful insights
 
 Authentication layer ensures user-specific data isolation
 
-```md
+```
 ## 📷 Screenshots
 
 ![Dashboard View](https://github.com/user-attachments/assets/dc6b9958-fbc4-48aa-8ec3-c452c8947f46)
