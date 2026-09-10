@@ -13,8 +13,6 @@
 
 **Live Demo:** https://finpilot.onrender.com
 
-**API Documentation:** https://finpilot.onrender.com/api/docs/
-
 ---
 
 ## 📌 Overview
